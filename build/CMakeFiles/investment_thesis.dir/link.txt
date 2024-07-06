@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/investment_thesis.dir/main.cpp.o CMakeFiles/investment_thesis.dir/src/data_collection.cpp.o CMakeFiles/investment_thesis.dir/src/data_analysis.cpp.o CMakeFiles/investment_thesis.dir/src/strategy_formulation.cpp.o CMakeFiles/investment_thesis.dir/src/backtesting.cpp.o CMakeFiles/investment_thesis.dir/src/evaluation.cpp.o  -o investment_thesis 

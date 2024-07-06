@@ -1,0 +1,3 @@
+/workspaces/Developing-a-Data-Driven-Investment-Thesis/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Developing-a-Data-Driven-Investment-Thesis/build/CMakeFiles/edit_cache.dir
+/workspaces/Developing-a-Data-Driven-Investment-Thesis/build/CMakeFiles/investment_thesis.dir
