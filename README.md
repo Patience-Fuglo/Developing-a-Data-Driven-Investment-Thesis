@@ -1,10 +1,6 @@
 # Developing-a-Data-Driven-Investment-Thesis
 This project involves developing a data-driven investment thesis using data from OpenBB. The project is structured to collect, analyze, and backtest investment strategies using C++.
 
-## Description
-
-This project is developed using C++ and managed with CMake. It aims to provide a robust solution. 
-
 ## Objective 
 This project aims to explore and develop strategies that the firm can use to make profitable financial transactions. These transactions will encompass both short-term and long-term investments strategies. The project will leverage data from OpenBB, an investment research platform that provides free access to data on cryptocurrencies, forex, futures, stocks, and more, through a Python API. Validate and backtest the developed strategies using historical data. Optimize the strategies for maximum profitability and risk management.
 
@@ -40,12 +36,11 @@ mkdir build
 cd build
 
 2. Run CMake to configure the project:
-- Run CMake to configure the project:
+3.  Run CMake to configure the project:
 cmake ..
 
-3. Compile the project using the generated Makefile:
+4. Compile the project using the generated Makefile:
 make
 
-4. Run the executable:
+5. Run the executable:
 ./investment_thesis
-
